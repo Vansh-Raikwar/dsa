@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Vansh-Raikwar/dsa/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Vansh-Raikwar/dsa/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vansh-Raikwar/dsa/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Vansh-Raikwar/dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vansh-Raikwar/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
