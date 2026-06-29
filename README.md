@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Vansh-Raikwar/dsa/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vansh-Raikwar/dsa/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh-Raikwar/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -85,4 +87,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
