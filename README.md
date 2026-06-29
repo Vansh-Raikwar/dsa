@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vansh-Raikwar/dsa/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Vansh-Raikwar/dsa/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vansh-Raikwar/dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-Raikwar/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vansh-Raikwar/dsa/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Vansh-Raikwar/dsa/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
