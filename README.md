@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/Vansh-Raikwar/dsa/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Vansh-Raikwar/dsa/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Vansh-Raikwar/dsa/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vansh-Raikwar/dsa/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -56,6 +58,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
