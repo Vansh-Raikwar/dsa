@@ -31,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@
 | [0075-sort-colors](https://github.com/Vansh-Raikwar/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Vansh-Raikwar/dsa/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
