@@ -134,6 +134,7 @@
 | [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Vansh-Raikwar/dsa/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
+| [1392-longest-happy-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
@@ -187,4 +188,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
