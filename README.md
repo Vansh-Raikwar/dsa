@@ -35,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Vansh-Raikwar/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Vansh-Raikwar/dsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/0076-minimum-window-substring) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Vansh-Raikwar/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Vansh-Raikwar/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Vansh-Raikwar/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Vansh-Raikwar/dsa/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
