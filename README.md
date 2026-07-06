@@ -29,6 +29,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Vansh-Raikwar/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-Raikwar/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -104,6 +105,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vansh-Raikwar/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-Raikwar/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
