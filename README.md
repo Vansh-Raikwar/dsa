@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Vansh-Raikwar/dsa/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Vansh-Raikwar/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vansh-Raikwar/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Vansh-Raikwar/dsa/tree/master/0056-merge-intervals) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Vansh-Raikwar/dsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
@@ -49,6 +51,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Vansh-Raikwar/dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vansh-Raikwar/dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vansh-Raikwar/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0088-merge-sorted-array) |
@@ -120,6 +123,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Vansh-Raikwar/dsa/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Vansh-Raikwar/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0151-reverse-words-in-a-string) |
