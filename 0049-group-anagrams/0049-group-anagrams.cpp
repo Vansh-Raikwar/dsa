@@ -5,9 +5,16 @@ public:
         unordered_map<string,vector<string>> umap;
 
         for(auto x:strs){
-            string t = x;   // temp -> t
-            sort(x.begin(),x.end());
-            umap[x].push_back(t);
+            vector<int> freq(26,0);
+            for(char c:x){
+                freq[c-'a']++;
+
+            }
+            string key="";
+            for(int j:freq){
+                key+=to_string(j)+"$";
+            }
+            umap[key].push_back(x);
         }
         for(auto i:umap){
             ans.push_back(i.second);
