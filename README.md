@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-Raikwar/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Vansh-Raikwar/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -45,6 +46,7 @@
 | [0076-minimum-window-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Vansh-Raikwar/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vansh-Raikwar/dsa/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Vansh-Raikwar/dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
 | ------- |
