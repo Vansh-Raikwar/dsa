@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vansh-Raikwar/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0015-3sum) |
@@ -56,6 +57,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vansh-Raikwar/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Vansh-Raikwar/dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vansh-Raikwar/dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -110,6 +112,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vansh-Raikwar/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vansh-Raikwar/dsa/tree/master/0240-search-a-2d-matrix-ii) |
