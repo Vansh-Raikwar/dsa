@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vansh-Raikwar/dsa/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Vansh-Raikwar/dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vansh-Raikwar/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Vansh-Raikwar/dsa/tree/master/0056-merge-intervals) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Vansh-Raikwar/dsa/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Raikwar/dsa/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
