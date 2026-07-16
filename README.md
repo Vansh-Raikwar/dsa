@@ -41,6 +41,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vansh-Raikwar/dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vansh-Raikwar/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vansh-Raikwar/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
+| [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
+| [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +198,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
 | ------- |
@@ -242,4 +246,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh-Raikwar/dsa/tree/master/0876-middle-of-the-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
