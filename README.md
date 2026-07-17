@@ -24,6 +24,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vansh-Raikwar/dsa/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Vansh-Raikwar/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vansh-Raikwar/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0088-merge-sorted-array) |
@@ -137,6 +138,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vansh-Raikwar/dsa/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Vansh-Raikwar/dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-Raikwar/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
@@ -180,6 +182,7 @@
 | [0037-sudoku-solver](https://github.com/Vansh-Raikwar/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Vansh-Raikwar/dsa/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Vansh-Raikwar/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Raikwar/dsa/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
