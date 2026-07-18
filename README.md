@@ -36,6 +36,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Vansh-Raikwar/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-Raikwar/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Vansh-Raikwar/dsa/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-Raikwar/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -83,6 +84,7 @@
 | [0088-merge-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Vansh-Raikwar/dsa/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0283-move-zeroes](https://github.com/Vansh-Raikwar/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-Raikwar/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Vansh-Raikwar/dsa/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Vansh-Raikwar/dsa/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh-Raikwar/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -166,6 +169,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Vansh-Raikwar/dsa/tree/master/0455-assign-cookies) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vansh-Raikwar/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String
 |  |
