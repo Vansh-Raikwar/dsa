@@ -40,6 +40,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-Raikwar/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/Vansh-Raikwar/dsa/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vansh-Raikwar/dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh-Raikwar/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -108,6 +109,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vansh-Raikwar/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Vansh-Raikwar/dsa/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vansh-Raikwar/dsa/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/Vansh-Raikwar/dsa/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
