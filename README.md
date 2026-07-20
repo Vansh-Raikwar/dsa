@@ -191,6 +191,7 @@
 | [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Vansh-Raikwar/dsa/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1392-longest-happy-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -266,6 +267,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
