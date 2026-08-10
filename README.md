@@ -99,6 +99,7 @@
 | [0050-powx-n](https://github.com/Vansh-Raikwar/dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Vansh-Raikwar/dsa/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Vansh-Raikwar/dsa/tree/master/0231-power-of-two) |
+| [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh-Raikwar/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vansh-Raikwar/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -172,6 +173,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh-Raikwar/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Raikwar/dsa/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Vansh-Raikwar/dsa/tree/master/0322-coin-change) |
+| [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -308,4 +310,24 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh-Raikwar/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vansh-Raikwar/dsa/tree/master/3312-sorted-gcd-pair-queries) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
