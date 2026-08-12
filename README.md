@@ -38,6 +38,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Vansh-Raikwar/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Vansh-Raikwar/dsa/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Vansh-Raikwar/dsa/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Vansh-Raikwar/dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-Raikwar/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -68,6 +69,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Raikwar/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Vansh-Raikwar/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-Raikwar/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vansh-Raikwar/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -251,6 +253,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Vansh-Raikwar/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vansh-Raikwar/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Raikwar/dsa/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Vansh-Raikwar/dsa/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -258,6 +261,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vansh-Raikwar/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Vansh-Raikwar/dsa/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
