@@ -48,6 +48,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh-Raikwar/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vansh-Raikwar/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vansh-Raikwar/dsa/tree/master/2073-time-needed-to-buy-tickets) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vansh-Raikwar/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vansh-Raikwar/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -208,6 +209,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1392-longest-happy-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vansh-Raikwar/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -352,4 +354,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vansh-Raikwar/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vansh-Raikwar/dsa/tree/master/0232-implement-queue-using-stacks) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vansh-Raikwar/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vansh-Raikwar/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
