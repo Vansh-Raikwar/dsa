@@ -195,6 +195,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Vansh-Raikwar/dsa/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vansh-Raikwar/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Vansh-Raikwar/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/0076-minimum-window-substring) |
@@ -250,6 +251,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vansh-Raikwar/dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vansh-Raikwar/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Vansh-Raikwar/dsa/tree/master/0225-implement-stack-using-queues) |
@@ -362,4 +364,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vansh-Raikwar/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vansh-Raikwar/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
