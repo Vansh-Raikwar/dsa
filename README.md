@@ -70,6 +70,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Raikwar/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Vansh-Raikwar/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-Raikwar/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vansh-Raikwar/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -204,6 +206,7 @@
 | [0131-palindrome-partitioning](https://github.com/Vansh-Raikwar/dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vansh-Raikwar/dsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Vansh-Raikwar/dsa/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0796-rotate-string) |
@@ -273,6 +276,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Vansh-Raikwar/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vansh-Raikwar/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Vansh-Raikwar/dsa/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vansh-Raikwar/dsa/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
