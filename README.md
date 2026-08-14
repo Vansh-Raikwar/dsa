@@ -375,4 +375,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vansh-Raikwar/dsa/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vansh-Raikwar/dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
