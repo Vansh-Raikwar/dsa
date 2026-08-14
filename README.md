@@ -229,6 +229,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vansh-Raikwar/dsa/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
@@ -260,6 +261,7 @@
 | [0020-valid-parentheses](https://github.com/Vansh-Raikwar/dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vansh-Raikwar/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Vansh-Raikwar/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vansh-Raikwar/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Raikwar/dsa/tree/master/0234-palindrome-linked-list) |
@@ -380,4 +382,12 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vansh-Raikwar/dsa/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vansh-Raikwar/dsa/tree/master/0176-second-highest-salary) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
