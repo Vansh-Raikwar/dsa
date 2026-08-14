@@ -77,6 +77,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vansh-Raikwar/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vansh-Raikwar/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vansh-Raikwar/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
@@ -214,6 +215,7 @@
 | [1392-longest-happy-prefix](https://github.com/Vansh-Raikwar/dsa/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vansh-Raikwar/dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vansh-Raikwar/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vansh-Raikwar/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0239-sliding-window-maximum](https://github.com/Vansh-Raikwar/dsa/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vansh-Raikwar/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vansh-Raikwar/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
