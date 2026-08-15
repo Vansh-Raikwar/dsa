@@ -6,7 +6,7 @@ public:
         bool hasNonZero = false;
         for(auto el:nums){
             xor_n^=el;
-            if(xor_n!=0) hasNonZero=true;
+            if(el!=0) hasNonZero=true;
         }
         if(xor_n!=0) return n;
         if(hasNonZero) return n-1;
