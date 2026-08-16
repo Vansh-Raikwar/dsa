@@ -47,6 +47,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vansh-Raikwar/dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh-Raikwar/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vansh-Raikwar/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vansh-Raikwar/dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vansh-Raikwar/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -110,6 +111,7 @@
 | [0169-majority-element](https://github.com/Vansh-Raikwar/dsa/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vansh-Raikwar/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vansh-Raikwar/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -119,6 +121,7 @@
 | [0231-power-of-two](https://github.com/Vansh-Raikwar/dsa/tree/master/0231-power-of-two) |
 | [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh-Raikwar/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vansh-Raikwar/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
@@ -199,6 +202,7 @@
 | [0011-container-with-most-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Vansh-Raikwar/dsa/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vansh-Raikwar/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String
 |  |
@@ -361,14 +365,17 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -377,6 +384,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Vansh-Raikwar/dsa/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
 | ------- |
