@@ -45,6 +45,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vansh-Raikwar/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Vansh-Raikwar/dsa/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vansh-Raikwar/dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1386-cinema-seat-allocation](https://github.com/Vansh-Raikwar/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1572-matrix-diagonal-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh-Raikwar/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
@@ -78,6 +79,7 @@
 | [0496-next-greater-element-i](https://github.com/Vansh-Raikwar/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-Raikwar/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vansh-Raikwar/dsa/tree/master/0567-permutation-in-string) |
+| [1386-cinema-seat-allocation](https://github.com/Vansh-Raikwar/dsa/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vansh-Raikwar/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh-Raikwar/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -177,6 +179,7 @@
 | [0078-subsets](https://github.com/Vansh-Raikwar/dsa/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Vansh-Raikwar/dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-Raikwar/dsa/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/Vansh-Raikwar/dsa/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vansh-Raikwar/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
@@ -202,6 +205,7 @@
 | [0011-container-with-most-water](https://github.com/Vansh-Raikwar/dsa/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Vansh-Raikwar/dsa/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vansh-Raikwar/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Vansh-Raikwar/dsa/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vansh-Raikwar/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String
