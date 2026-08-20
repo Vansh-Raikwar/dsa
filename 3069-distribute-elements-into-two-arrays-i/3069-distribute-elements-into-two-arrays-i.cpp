@@ -18,12 +18,9 @@ public:
             }
         }
         vector<int> temp;
-        for(int i=0;i<arr1.size();i++){
-            temp.push_back(arr1[i]);
-        }
         for(int i=0;i<arr2.size();i++){
-            temp.push_back(arr2[i]);
+            arr1.push_back(arr2[i]);
         }
-        return temp;
+        return arr1;
     }
 };
