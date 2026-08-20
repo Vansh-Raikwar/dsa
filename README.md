@@ -250,6 +250,7 @@
 | [0101-symmetric-tree](https://github.com/Vansh-Raikwar/dsa/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Vansh-Raikwar/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vansh-Raikwar/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
@@ -426,6 +427,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Vansh-Raikwar/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vansh-Raikwar/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -435,6 +437,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vansh-Raikwar/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Vansh-Raikwar/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vansh-Raikwar/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -448,4 +451,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vansh-Raikwar/dsa/tree/master/0347-top-k-frequent-elements) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Vansh-Raikwar/dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
