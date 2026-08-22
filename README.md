@@ -127,6 +127,7 @@
 | [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh-Raikwar/dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vansh-Raikwar/dsa/tree/master/3312-sorted-gcd-pair-queries) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vansh-Raikwar/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
