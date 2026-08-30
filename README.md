@@ -51,6 +51,7 @@
 | [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vansh-Raikwar/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vansh-Raikwar/dsa/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vansh-Raikwar/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vansh-Raikwar/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2596-check-knight-tour-configuration](https://github.com/Vansh-Raikwar/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vansh-Raikwar/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -212,6 +213,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Vansh-Raikwar/dsa/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Vansh-Raikwar/dsa/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vansh-Raikwar/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vansh-Raikwar/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
 | ------- |
